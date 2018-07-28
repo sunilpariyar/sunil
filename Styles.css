@@ -106,7 +106,7 @@ body {
 
 .bg-image {
   position: absolute;
-  background: #333 url("/dist/images/city.jpg");
+  background: #333 url("/images/city.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -231,11 +231,11 @@ h3 {
 }
 
 .bg-image1 {
-  background: #333 url("/dist/images/BG1.jpeg");
+  background: #333 url("/images/BG1.jpeg");
 }
 
 .bg-image2 {
-  background: #333 url("/dist/images/BG2.jpeg");
+  background: #333 url("/images/BG2.jpeg");
   position: absolute;
   background-position: center;
   background-repeat: no-repeat;
@@ -249,11 +249,11 @@ h3 {
 }
 
 .bg-image3 {
-  background: #333 url("/dist/images/BG3.jpeg");
+  background: #333 url("/images/BG3.jpeg");
 }
 
 .bg-image4 {
-  background: #333 url("/dist/images/BG4.jpeg");
+  background: #333 url("/images/BG4.jpeg");
 }
 
 .bg-image1, .bg-image3, .bg-image4 {
