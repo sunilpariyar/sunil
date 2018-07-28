@@ -1,1 +1,3 @@
-git add . && sleep 1 && git commit -m 'Default latest commit' && sleep 2 && git push origin gh-pages
+git add .
+git commit -m 'Default latest commit' 
+git push origin gh-pages
